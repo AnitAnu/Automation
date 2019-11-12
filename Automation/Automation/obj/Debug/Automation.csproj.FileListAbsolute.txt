@@ -1,0 +1,17 @@
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\nunit.engine.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\nunit.engine.api.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\Automation.dll.config
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\Automation.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\nunit.framework.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\WebDriver.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\nunit.framework.pdb
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\nunit.framework.xml
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\bin\Debug\WebDriver.xml
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\obj\Debug\Automation.csproj.CopyComplete
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\obj\Debug\Automation.dll
+C:\Users\Anita_shivdas_birada\source\repos\Automation\Automation\obj\Debug\Automation.pdb
